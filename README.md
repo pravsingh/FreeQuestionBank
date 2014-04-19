@@ -17,9 +17,11 @@ Conventions
 + Language doesn't matter. Just make sure you're writing questions and/or improving the answer.
 + Submissions should follow this directory structure
 
-	
-		category_name/question_name/username_solution[_filename].language
-		category_name/question_name/username_solution[_filename]_unittest.language
+	        category_name/question_in_short/detailed_question.[md|markdown|txt]
+		category_name/question_in_short/username_solution.language.[md|markdown|txt]
+		category_name/question_in_short/username_unittest.language.[md|markdown|txt]
+
+note: the preferred 'language' is pseudocode however one can write using his/her preferred language e.g. c,c++,java,python etc.
 
 + It is preferred that you prepend or append your files with your Github username or some identifier to avoid overwriting others' implementations.
 
