@@ -17,7 +17,7 @@ Conventions
 + Language doesn't matter. Just make sure you're writing questions and/or improving the answer.
 + Submissions should follow this directory structure
 
-	        category_name/question_in_short/detailed_question.[md|markdown|txt]
+		category_name/question_in_short/detailed_question.[md|markdown|txt]
 		category_name/question_in_short/username_solution.language.[md|markdown|txt]
 		category_name/question_in_short/username_unittest.language.[md|markdown|txt]
 
