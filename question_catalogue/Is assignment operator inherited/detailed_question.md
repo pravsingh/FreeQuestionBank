@@ -1,0 +1,1 @@
+Is assignment operator inherited

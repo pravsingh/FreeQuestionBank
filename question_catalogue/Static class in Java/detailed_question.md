@@ -1,0 +1,1 @@
+Static class in Java

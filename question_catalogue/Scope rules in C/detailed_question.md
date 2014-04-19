@@ -1,0 +1,1 @@
+Scope rules in C

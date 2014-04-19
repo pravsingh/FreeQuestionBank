@@ -1,0 +1,1 @@
+Static blocks in Java

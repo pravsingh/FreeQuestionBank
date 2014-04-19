@@ -1,0 +1,1 @@
+Remove characters from the first string which are present in the second string
